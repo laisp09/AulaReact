@@ -1,4 +1,5 @@
 import Exemplo1 from "./componentes/Exemplo1"
+import Exercicio1 from "./componentes/Exercicio1"
 
 export default function App()
 {
@@ -13,13 +14,12 @@ export default function App()
   )
 }
 
-import Exercicio1 from "./componentes/Exercicio1"
-
 export default function App()
 {
   return (
     <div>
-      <h3>Chamada para o Exercicio 1</h3>
+      
+      <h3>Chamadas para o Exercicio 1</h3>
 
     <Exercicio1 fah="100°"  />
     <Exercicio1 fah="70°" />
