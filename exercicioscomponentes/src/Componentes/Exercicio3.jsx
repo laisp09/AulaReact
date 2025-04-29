@@ -1,6 +1,6 @@
 export default function Exercicio3({ valor, taxa, tempo})
 {
-    let valorparcela = valor + (valor * (taxa*taxa/100) * tempo)
+    let valorparcela = valor + ((valor * ((taxa*taxa)/100)) * tempo)
     return (
         <div>
         Valor: R${valor} <br/>
@@ -8,5 +8,5 @@ export default function Exercicio3({ valor, taxa, tempo})
         Tempo: {tempo} dias <br/>
         Valor da parcela em atraso é {valorparcela}
         </div>
-     )
+     );
 }

@@ -16,7 +16,7 @@ function App() {
    <BoasVindas nome="Maria Fernanda" />
    <BoasVindas nome="Lorena" />
    <BoasVindas nome="Anna Luiza" />
-   <BoasVindas nome="jorge amor" />
+   <BoasVindas nome="Fernanda" />
 
    </div>
   )

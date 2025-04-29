@@ -2,6 +2,8 @@ import Exemplo1 from "./componentes/Exemplo1"
 import Exercicio1 from "./Componentes/Exercicio1"
 import Exercicio2 from "./Componentes/Exercicio2"
 import Exercicio3 from "./Componentes/Exercicio3"
+import Exercicio4 from "./Componentes/Exercicio4"
+import Exercicio5 from "./Componentes/Exercicio5"
 
 export default function App()
 {
@@ -28,7 +30,25 @@ export default function App()
 
     <hr/>
     <h3>Chamada para o Exercício 3</h3>
-    <Exercicio3 valor={100} taxa={10} tempo={2}/>
+    <Exercicio3 valor={100} taxa={10} tempo={2}/> <br/>
+    <Exercicio3 valor={100} taxa={10} tempo={10}/>
+
+    <hr/>
+    <h3>Chamada para o Exercício 4</h3>
+    <Exercicio4 tipo="retangulo" base={10} altura={5}/> <br/>
+    <Exercicio4 tipo="triangulo" base={10} altura={5}/> <br/>
+    <Exercicio4 tipo="quadrado" base={10} altura={10}/> 
+
+    <hr/>
+    <h3>Chamada para o Exercício 5</h3>
+    <Exercicio5 quantidade={10}/> <br/>
+    <Exercicio5 quantidade={20}/>
+
+    <hr/>
+    <h3>Chamada para o Exercício 5</h3>
+    <Exercicio6 capital={1000} taxa={5} tempo={2}/> <br/>
+    <Exercicio6 capital={1000} taxa={5} tempo={3}/>
     </div>
+       
   )
 }

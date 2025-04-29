@@ -6,5 +6,5 @@ export default function Exercicio1({ fah })
         <div>
           A temperatura {fah}°F em Celsius é {celsius} °C.
         </div>
-     )
+     );
 }
