@@ -9,7 +9,7 @@ export default function RioJaneiro()
             </p>
 
             <p>
-                <img src="" alt=""/>
+                <img src="/RJ.png" alt=""/>
             </p>
 
             <p>
