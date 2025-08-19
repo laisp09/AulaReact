@@ -9,7 +9,7 @@ export default function Tocantins()
             </p>
 
             <p>
-                <img src="/ES.png" alt=""/>
+                <img src="/TO.webp" alt=""/>
             </p>
 
             <p>

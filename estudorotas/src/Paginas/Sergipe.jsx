@@ -9,7 +9,7 @@ export default function Sergipe()
             </p>
 
             <p>
-                <img src="/ES.png" alt=""/>
+                <img src="/SE.jpg" alt=""/>
             </p>
 
             <p>

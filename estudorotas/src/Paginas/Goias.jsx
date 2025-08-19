@@ -9,7 +9,7 @@ export default function Goias()
             </p>
 
             <p>
-                <img src="/ES.png" alt=""/>
+                <img src="/GO.jpeg" alt=""/>
             </p>
 
             <p>

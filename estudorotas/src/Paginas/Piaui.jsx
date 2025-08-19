@@ -9,7 +9,7 @@ export default function Piaui()
             </p>
 
             <p>
-                <img src="/ES.png" alt=""/>
+                <img src="/PI.webp" alt=""/>
             </p>
 
             <p>

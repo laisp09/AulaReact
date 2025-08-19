@@ -9,7 +9,7 @@ export default function DistritoFederal()
             </p>
 
             <p>
-                <img src="/ES.png" alt=""/>
+                <img src="/df.webp" alt=""/>
             </p>
 
             <p>

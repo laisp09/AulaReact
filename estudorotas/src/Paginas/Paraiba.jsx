@@ -9,7 +9,7 @@ export default function Paraiba()
             </p>
 
             <p>
-                <img src="/ES.png" alt=""/>
+                <img src="/PB.jpeg" alt=""/>
             </p>
 
             <p>

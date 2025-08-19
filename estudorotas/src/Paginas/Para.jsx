@@ -9,7 +9,7 @@ export default function Para()
             </p>
 
             <p>
-                <img src="/ES.png" alt=""/>
+                <img src="/PA.webp" alt=""/>
             </p>
 
             <p>

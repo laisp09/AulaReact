@@ -9,7 +9,7 @@ export default function Roraima()
             </p>
 
             <p>
-                <img src="/ES.png" alt=""/>
+                <img src="/RR.webp" alt=""/>
             </p>
 
             <p>

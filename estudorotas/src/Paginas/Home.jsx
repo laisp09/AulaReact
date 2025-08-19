@@ -34,6 +34,7 @@ export default function Home()
 
             <ul>
                <li><a href="/ac"> Acre </a></li>
+               <li><a href="/am"> Amazônas </a></li>
                <li><a href="/ap"> Amapá </a></li>
                <li><a href="/pa"> Pará </a></li>
                <li><a href="/ro"> Rondônia</a></li>

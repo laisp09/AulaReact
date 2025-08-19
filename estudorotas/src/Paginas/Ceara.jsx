@@ -9,7 +9,7 @@ export default function Ceará()
             </p>
 
             <p>
-                <img src="/ES.png" alt=""/>
+                <img src="/CE.webp" alt=""/>
             </p>
 
             <p>

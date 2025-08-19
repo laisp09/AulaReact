@@ -9,7 +9,7 @@ export default function Rondonia()
             </p>
 
             <p>
-                <img src="/ES.png" alt=""/>
+                <img src="/RO.jpg" alt=""/>
             </p>
 
             <p>

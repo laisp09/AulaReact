@@ -9,7 +9,7 @@ export default function Pernambuco()
             </p>
 
             <p>
-                <img src="/ES.png" alt=""/>
+                <img src="/PE.webp" alt=""/>
             </p>
 
             <p>
