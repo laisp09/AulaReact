@@ -5,11 +5,11 @@ export default function Amazonas()
             <h1>Seja bem vindo ao Estado de Amazônas</h1>
 
             <p>
-            O Amapá fica na região Norte do Brasil, com Macapá como capital, única cidade cortada pela linha do Equador. O estado é rico em biodiversidade, com grande parte da Amazônia preservada, e tem economia baseada na mineração, extrativismo e agricultura. Também é conhecido pelo Forte de São José e pela cultura indígena local
+            O Amazonas é o maior estado do Brasil em extensão territorial, localizado na região Norte. Sua capital é Manaus, um importante polo industrial e cultural. Abriga a maior parte da Floresta Amazônica, sendo essencial para o equilíbrio climático global. É rico em biodiversidade e possui grande diversidade de povos indígenas.
             </p>
 
             <p>
-                <img src="/.jpeg" alt=""/>
+                <img src="/AM.jpg" alt=""/>
             </p>
 
             <p>
