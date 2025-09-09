@@ -1,21 +1,26 @@
-export default function Exercicio2() {
+export default function Exercicio8() {
     return(
       <div>
-         <h1>Exercício 2 </h1>
+         <h1>Exercício 8 </h1>
          
          <div className="conteudo">
 
-          <h3>Cálculo da Temperatura</h3>
+          <h3>Cálculo IMC</h3>
 
           <form>
 
             <p>
-              Digite a temperatura em graus fahrenheit: <br/>
+              Digite o peso: <br/>
+              <input type="text" />
+            </p>
+
+             <p>
+              Digite a altura: <br/>
               <input type="text" />
             </p>
 
             <p>
-              <input type="button" value="Exercício 2" />
+              <input type="button" value="Calcular" />
             </p>
 
             <p>

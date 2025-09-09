@@ -4,7 +4,7 @@ export default function Exemplo2() {
       <h1>Exemplo 2</h1>
       
       <div className="conteudo">
-       <h3>Calculo da Média</h3>
+       <h3>Cálculo da Média</h3>
 
        <p>
           O objetivo será receber duas notas, calcular a média e exibir o resultado na tela
@@ -23,6 +23,10 @@ export default function Exemplo2() {
 
         <p>
           <input type="button" value="Calcular Média"/>
+        </p>
+
+        <p>
+            <a href="/"> Voltar  </a>
         </p>
 
        </form>
