@@ -40,7 +40,7 @@ export default function Exercicio6() {
            onChange={(e) => setPreco (e.target.value)}/>
         </p>
 
-        <p>
+            <p>
               <input type="button" value="Calcular" onClick={calcular}/>
             </p>
 
@@ -48,6 +48,7 @@ export default function Exercicio6() {
               <b>Resultado</b>
               <br/>
                {resultado}
+
             </p>
 
          <p>

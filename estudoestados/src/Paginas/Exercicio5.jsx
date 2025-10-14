@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-export default function Exercicio4() {
+export default function Exercicio5() {
 
   const[lado, setLado] = useState(0);
   const[resultado, setResultado] = useState(0);

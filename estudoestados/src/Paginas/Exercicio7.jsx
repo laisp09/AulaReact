@@ -12,9 +12,9 @@ export default function Exercicio7() {
 
    let media;
    
-   media= Number((media)+Number(media)+Number(media))/3;
+   media= (Number(nota1)+Number(nota2)+Number(nota3))/3;
 
-   setResultado("Subtotal: " + subtotal + " - Desconto: " + desconto + " - Valor Final " + valorfinal );
+   setResultado("Média: " + media );
   }
 
   return (
@@ -29,22 +29,32 @@ export default function Exercicio7() {
 
         <p>
           Digite a nota 1: <br/>
-          <input type="text"/>
+          <input type="text" value={nota1}
+           onChange={(e) => setNota1 (e.target.value)}/>
         </p>
 
         <p>
           Digite a nota 2: <br/>
-          <input type="text"/>
+          <input type="text" value={nota2}
+           onChange={(e) => setNota2 (e.target.value)}/>
         </p>
 
         <p>
           Digite a nota 3: <br/>
-          <input type="text"/>
+          <input type="text" value={nota3}
+           onChange={(e) => setNota3 (e.target.value)}/>
         </p>
 
         <p>
-          <input type="button" value="Calcular"/>
-        </p>
+              <input type="button" value="Calcular" onClick={calcular}/>
+            </p>
+
+            <p>
+              <b>Resultado</b>
+              <br/>
+               {resultado}
+            </p>
+
 
          <p>
             <a href="/"> Voltar  </a>
@@ -57,3 +67,4 @@ export default function Exercicio7() {
     </div>
   );
 }
+
